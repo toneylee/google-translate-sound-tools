@@ -9,7 +9,7 @@
   "author": "Sang le",
   "license": "ISC",
   "dependencies": {
-    "google-translate-api": "^2.3.0",
-    "google-translate-token": "^1.0.0"
+    "google-translate-token": "^1.0.0",
+    "safe-eval": "^0.3.0"
   }
 }

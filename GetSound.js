@@ -1,4 +1,4 @@
-const api = require('google-translate-api');
+const api = require('./index.js');
 var https = require('https');
 var fs = require('fs');
 
