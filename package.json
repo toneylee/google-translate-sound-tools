@@ -1,0 +1,15 @@
+{
+  "name": "google-translate-tool",
+  "version": "1.0.0",
+  "description": "Google translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sang le",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "google-translate-token": "^1.0.0"
+  }
+}
